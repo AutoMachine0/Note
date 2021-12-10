@@ -16,7 +16,7 @@
 ## python库使用教程
     1.PyG库
     2.Ray库
-## python库使用教程
+## pytorch建模
     1.mlp
 ##面向对象编程
     1.python面向对象编程
